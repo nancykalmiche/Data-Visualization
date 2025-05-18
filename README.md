@@ -11,16 +11,15 @@ Preview images of each dashboard and report are available in the screenshots/ fo
 It is intended exclusively for learning, demonstration, and non-commercial purposes. No real patient, customer, or personal data is included.
 
 ## Repository Structure
-screenshots/ # Images of dashboards and reports
+- screenshots/ # Images of dashboards and reports
 
-medical/ # Python Dash app for Medical Insights
-- app.py # Run this file to launch the dashboard
-- dashboard1.py
-- dashboard2.py
-- dashboard3.py
-- dashboard4.py
-
-HR_Report.pbix<br>
-displacement_report.pbix<br>
-ecommerce_Report.pbix<br>
-medical_report.pbix # Power BI report related to the Python dashboard<br>
+- medical/ # Python Dash app for Medical Insights
+  - app.py # Run this file to launch the dashboard
+  - dashboard1.py
+  - dashboard2.py
+  - dashboard3.py
+  - dashboard4.py
+- HR_Report.pbix<br>
+- displacement_report.pbix<br>
+- ecommerce_Report.pbix<br>
+- medical_report.pbix # Power BI report related to the Python dashboard<br>
