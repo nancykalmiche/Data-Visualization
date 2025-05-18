@@ -1,9 +1,9 @@
-Data Visualization Portfolio
+## Data Visualization Portfolio
 
-This repository presents a collection of data visualization projects developed using **Python (Dash)** and **Microsoft Power BI**. 
+This repository presents a collection of data visualization projects developed using **Python (Dash)** and **Microsoft Power BI**. <br>
 The aim of these projects is to demonstrate proficiency in transforming complex datasets into meaningful, interactive visual insights.
 
-Projects cover a variety of domains including **healthcare**, **e-commerce**, **human resources**, and **geospatial analysis**.
+Projects cover a variety of domains including **healthcare**, **e-commerce**, **human resources**, and **geospatial analysis**.<br>
 Preview images of each dashboard and report are available in the screenshots/ folder for quick reference.
 
  **DISCLAIMER:** 
@@ -12,13 +12,15 @@ It is intended exclusively for learning, demonstration, and non-commercial purpo
 
 ## Repository Structure
 screenshots/ # Images of dashboards and reports
+
 medical/ # Python Dash app for Medical Insights
-  app.py # Run this file to launch the dashboard
-  ├── dashboard1.py
-  ├── dashboard2.py
-  ├── dashboard3.py
-  ├── dashboard4.py
-HR_Report.pbix
-displacement_report.pbix
-ecommerce_Report.pbix
-medical_report.pbix # Power BI report related to the Python dashboard
+- app.py # Run this file to launch the dashboard
+- dashboard1.py
+- dashboard2.py
+- dashboard3.py
+- dashboard4.py
+
+HR_Report.pbix<br>
+displacement_report.pbix<br>
+ecommerce_Report.pbix<br>
+medical_report.pbix # Power BI report related to the Python dashboard<br>
