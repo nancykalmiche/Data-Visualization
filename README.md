@@ -13,12 +13,12 @@ It is intended exclusively for learning, demonstration, and non-commercial purpo
 ## Repository Structure
 screenshots/ # Images of dashboards and reports
 medical/ # Python Dash app for Medical Insights
-├── app.py # Run this file to launch the dashboard
-├── dashboard1.py
-├── dashboard2.py
-├── dashboard3.py
-├── dashboard4.py
-📄 HR_Report.pbix
-📄 displacement_report.pbix
-📄 ecommerce_Report.pbix
-📄 medical_report.pbix # Power BI report related to the Python dashboard
+  app.py # Run this file to launch the dashboard
+  ├── dashboard1.py
+  ├── dashboard2.py
+  ├── dashboard3.py
+  ├── dashboard4.py
+HR_Report.pbix
+displacement_report.pbix
+ecommerce_Report.pbix
+medical_report.pbix # Power BI report related to the Python dashboard
